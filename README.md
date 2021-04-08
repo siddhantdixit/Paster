@@ -1,5 +1,5 @@
 # Paster
-Tool to paste Image from Clipboard to Windows Explorer.
+A Simple Windows Tool to paste Image from Clipboard to Windows Explorer.
 
 Uses:
 Save screenshot or copy image directly from web and paste it directly into windows explorer.
