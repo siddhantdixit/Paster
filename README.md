@@ -1,8 +1,29 @@
 # Paster
 A Simple Windows Tool to paste Image from Clipboard to Windows Explorer.
+<br>
+<br>
+<br>
+<br>
+<br>
+<img style="  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20vh;" src="docs/img/MyICon.png">
+<br>
+<br>
+<br>
+<br>
 
-Uses:
-Save screenshot or copy image directly from web and paste it directly into windows explorer.
+## Libraries:
+Pillow, Tkinter
+<br>
+<br>
+<br>
 
-How to save:
+## Uses:
+Save screenshot or copy image from web and paste it directly into windows explorer.
+<br>
+<br>
+<br>
+## How to save:
 Copy Image > Go To location in Windows Explorer > Right Click "Paster" Done! :)
