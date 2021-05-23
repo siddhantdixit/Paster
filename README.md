@@ -30,3 +30,25 @@ Save screenshot or copy image from web and paste it directly into windows explor
 <br>
 ## How to save:
 Copy Image > Go To location in Windows Explorer > Right Click "Paster" Done! :)
+
+<br>
+
+### Downloading Source:
+
+**Pre-requisite:** Python
+```sh
+git clone https://github.com/siddhantdixit/Paster.git
+
+cd Paster/Source
+
+pip install -r requirements.txt
+```
+
+### Running Source:
+```sh
+cd Paster/Source
+
+# Now Copy Image to Clipboard
+
+python Paster.py
+```
